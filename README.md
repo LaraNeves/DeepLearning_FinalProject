@@ -1,4 +1,4 @@
-# DeepLearning_Project - Final_Version
+# Deep Learning Project - Final Version
 
 Application of Generative Adversarial Networks (GANs) for generating synthetic data of patients affected by a pandemic
 
